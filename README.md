@@ -10,7 +10,6 @@ This repository is for training future data-scientists in "industry-like" enviro
 5. When having good results, create a pull request.
 6. I will comment on the changes.
 7. We reiterate with the comments until we're good to move forward to the next challenge. 
-7. Good luck
 
 ## Challenge
 https://www.kaggle.com/c/titanic
@@ -21,3 +20,5 @@ Get above 85% accuracy.
 * This project is about training, not just results.  
 * Work with branches, not on the master in Github. 
 * Use Python, [Jupyter](http://jupyter.org/), and [Turi](https://github.com/apple/turicreate)
+* Always start by splitting the data into three parts: *train*, *validations* and *test*. You can use the *test* dataset **only once!** to prevent overfitting.
+* The example code already have issues in it - good luck!
