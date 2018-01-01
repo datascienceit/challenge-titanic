@@ -22,3 +22,4 @@ Get above 85% accuracy.
 * Use Python, [Jupyter](http://jupyter.org/), and [Turi](https://github.com/apple/turicreate)
 * Always start by splitting the data into three parts: *train*, *validations* and *test*. You can use the *test* dataset **only once!** to prevent overfitting.
 * The example code already have issues in it - good luck!
+* Try to coomit every small change to github, instead of big uploads of a lot of code.
